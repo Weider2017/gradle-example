@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-migration-support:5.0.0-M4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-migration-support/5.0.0-M4/96f1a4a339d7aeab3ff92eaa074f947d5b4b32ce/junit-jupiter-migration-support-5.0.0-M4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-migration-support/5.0.0-M4/386fec892cece669cb1c6ca7ff837d2ba4ec3895/junit-jupiter-migration-support-5.0.0-M4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
